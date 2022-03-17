@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ...
-Web Frontend
+🌱 I’m currently learning ...
+- Web Frontend
 
 
 
