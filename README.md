@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=timeAuto&text=onetwothreeefour&type=slice)
+![header](https://capsule-render.vercel.app/api?color=timeAuto&text=onetwothreeefour&type=soft)
 ### Hi there 👋
 
 <!--
