@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?color=timeAuto&text=GiSungLee&type=soft)
+![header](https://capsule-render.vercel.app/api?color=timeAuto&text=Leekee0905&type=soft)
 ### Hi there 👋
 
 <!--
-**GiSungLee/GiSungLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Leekee0905/Leekee0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
