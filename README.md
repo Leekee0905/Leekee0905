@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - React
 - Next.js
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekee0905&show_icons=true&theme=radical)
+![Leekee0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekee0905&show_icons=true&theme=radical)
