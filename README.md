@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 - Web Frontend
 - React
 - Next.js
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekee0905)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leekee0905&hide=jupyter%20notebook&exclude_repo=ProjectMaze)](https://github.com/anuraghazra/github-readme-stats)
